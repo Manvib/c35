@@ -1,2 +1,2 @@
-# c35
-made game, form, and player classes
+# synchronousBallMovement
+Ball moving synchronously
